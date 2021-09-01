@@ -5,8 +5,8 @@
 hello
 
 List of things:
-- Math
-- Computers
+- math
+- computers
 - games
 
 [live site](https://shinep7.github.io/hello/)
